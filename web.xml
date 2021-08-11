@@ -1,0 +1,10 @@
+<web-app>
+<servlet>
+<servlet-name>CurrencyConverter</servlet-name>
+<servlet-class>CurrencyConverter</servlet-class>
+</servlet>
+<servlet-mapping>
+<servlet-name>CurrencyConverter</servlet-name>
+<url-pattern>/servlet/CurrencyConverter</url-pattern>
+</servlet-mapping>
+</web-app>
